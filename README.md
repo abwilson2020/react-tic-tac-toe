@@ -1,7 +1,9 @@
-### `npm start`
+# React Tic Tac Toe
+React application to play tic-tac-toe. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Demonstration
+![Alt Text](https://github.com/abwilson2020/TicTacToeConsole/blob/master/gameplay1.3.0.gif)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Getting Started
+
+- To use: Download all files, run `npm start` to view app in development mode
