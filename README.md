@@ -2,7 +2,7 @@
 React application to play tic-tac-toe. 
 
 ## Demonstration
-![Alt Text](https://github.com/abwilson2020/TicTacToeConsole/blob/master/gameplay1.3.0.gif)
+![Alt Text](https://github.com/abwilson2020/react-tic-tac-toe/blob/master/demo.gif)
 
 ## Getting Started
 
